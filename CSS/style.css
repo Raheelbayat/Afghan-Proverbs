@@ -476,6 +476,15 @@ nav ul li a:hover {
     text-align: center;
     background-color: white;
 }
+.click {
+    text-decoration: none;
+    color: white;
+}
+
+.click-2 {
+    text-decoration: none;
+    color: rgb(133, 99, 36);
+}
 .two {
     width: 300px;
     height: 30px;
